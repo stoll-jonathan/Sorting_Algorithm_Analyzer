@@ -6,9 +6,9 @@ This program generates 3 sets of random integer values in the range of 0 to 1,00
 
 ### Sorting Algorithms
 This program implements and analyzes the performance of three sorting algorithms:  
-1. Insertion Sort
-2. Selection Sort
-3. Merge Sort
+1. Bubble Sort
+2. Insertion Sort
+4. Merge Sort
 
 ### Data Analysis
 Each algorithm sorts the datasets twenty times each (ten for unsorted and another ten for sorted) for a total of 60 executions per algorithm.
