@@ -4,7 +4,7 @@ This program generates 3 sets of random integer values in the range of 0 to 1,00
 2. 10,000
 3. 100,000.
 
-### Sorting Algorithm
+### Sorting Algorithms
 This program implements and analyzes the performance of three sorting algorithms:  
 1. Insertion Sort
 2. Selection Sort
