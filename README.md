@@ -1,5 +1,5 @@
 ### Overview
-This program generates 3 sets of random integer values in the range of 0 to 1,000,000 and sorts them twice (so each sorting algorithm can be tested on both unsorted and sorted data). The number sets are of sizes:
+This program generates 3 sets of random integer values in the range of 0 to 1,000,000 and sorts them twice (so each sorting algorithm can be tested on both unsorted and sorted data). The random number sets are of sizes:
 1. 1,000
 2. 10,000
 3. 100,000.
